@@ -1,0 +1,110 @@
+fileFormatVersion: 2
+guid: 85e11b52f8ac1154ebe70d4c0494c9fe
+timeCreated: 1505719600
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: CLOTH_banner_a_00
+    100002: CLOTH_banner_a_01
+    100004: CLOTH_banner_a_02
+    100006: CLOTH_banner_a_03
+    100008: CLOTH_banner_a_04
+    100010: CLOTH_banner_b_00
+    100012: CLOTH_banner_b_01
+    100014: CLOTH_banner_b_02
+    100016: CLOTH_banner_b_03
+    100018: CLOTH_banner_b_04
+    100020: CLOTH_banner_c_00
+    100022: CLOTH_banner_c_01
+    100024: CLOTH_banner_c_02
+    100026: CLOTH_banner_c_03
+    100028: CLOTH_banner_c_04
+    100030: //RootNode
+    100032: Joker_Gun_Banner
+    100034: root_banner
+    400000: CLOTH_banner_a_00
+    400002: CLOTH_banner_a_01
+    400004: CLOTH_banner_a_02
+    400006: CLOTH_banner_a_03
+    400008: CLOTH_banner_a_04
+    400010: CLOTH_banner_b_00
+    400012: CLOTH_banner_b_01
+    400014: CLOTH_banner_b_02
+    400016: CLOTH_banner_b_03
+    400018: CLOTH_banner_b_04
+    400020: CLOTH_banner_c_00
+    400022: CLOTH_banner_c_01
+    400024: CLOTH_banner_c_02
+    400026: CLOTH_banner_c_03
+    400028: CLOTH_banner_c_04
+    400030: //RootNode
+    400032: Joker_Gun_Banner
+    400034: root_banner
+    4300000: Joker_Gun_Banner
+    9500000: //RootNode
+    13700000: Joker_Gun_Banner
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

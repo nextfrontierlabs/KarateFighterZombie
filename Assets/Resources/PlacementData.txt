@@ -1,0 +1,49 @@
+{
+  "Interstitial_Placement": {
+    "Win": {
+      "Enabled": true,
+        "PriorityString": [
+      "Facebook",
+      "Unity",
+      "Google",
+      "AdColony"
+    ]
+    },
+    "Lose": {
+      "Enabled": true,
+        "PriorityString": [
+      "Facebook",
+      "Unity",
+      "Google",
+      "AdColony"
+    ]
+    },
+    "Pause": {
+      "Enabled": true,
+       "PriorityString": [
+      "Facebook",
+      "Unity",
+      "Google",
+      "AdColony"
+    ]
+    }
+  },
+  "Banner_Placement": {
+    "Enabled": true,
+    "PriorityString": [
+      "Facebook",
+      "Unity",
+      "Google",
+      "AdColony"
+    ]
+  },
+  "RewardedVideo_Placement": {
+    "Enabled": true,
+      "PriorityString": [
+      "Facebook",
+      "Unity",
+      "Google",
+      "AdColony"
+    ]
+  }
+}

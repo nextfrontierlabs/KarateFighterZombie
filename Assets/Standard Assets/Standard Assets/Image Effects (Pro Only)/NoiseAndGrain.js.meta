@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 65fa258f0d5be7447ae28bc360c669e1
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - noiseShader: {fileID: 4800000, guid: b0249d8c935344451aa4de6db76f0688, type: 3}
+  - noiseTexture: {fileID: 2800000, guid: 7a632f967e8ad42f5bd275898151ab6a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

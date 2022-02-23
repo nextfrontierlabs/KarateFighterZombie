@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: ac433d9355b5aa1469636fbbb36c86d1
+timeCreated: 1505719649
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: chain_01_1
+    100002: chain_01_10
+    100004: chain_01_11
+    100006: chain_01_2
+    100008: chain_01_3
+    100010: chain_01_4
+    100012: chain_01_5
+    100014: chain_01_6
+    100016: chain_01_7
+    100018: chain_01_8
+    100020: chain_01_9
+    100022: chain_02_1
+    100024: chain_02_10
+    100026: chain_02_11
+    100028: chain_02_2
+    100030: chain_02_3
+    100032: chain_02_4
+    100034: chain_02_5
+    100036: chain_02_6
+    100038: chain_02_7
+    100040: chain_02_8
+    100042: chain_02_9
+    100044: //RootNode
+    100046: glove_attach
+    100048: glove_attach_glove_wrist
+    100050: glove_mit_1
+    100052: glove_mit_2
+    100054: glove_mit_end
+    100056: glove_thumb_1
+    100058: glove_thumb_2
+    100060: glove_thumb_end
+    100062: handle_bottom
+    100064: handle_bottom_end
+    100066: handle_top
+    100068: handle_top_end
+    100070: Prop_Joker_Extendo
+    100072: Root
+    400000: chain_01_1
+    400002: chain_01_10
+    400004: chain_01_11
+    400006: chain_01_2
+    400008: chain_01_3
+    400010: chain_01_4
+    400012: chain_01_5
+    400014: chain_01_6
+    400016: chain_01_7
+    400018: chain_01_8
+    400020: chain_01_9
+    400022: chain_02_1
+    400024: chain_02_10
+    400026: chain_02_11
+    400028: chain_02_2
+    400030: chain_02_3
+    400032: chain_02_4
+    400034: chain_02_5
+    400036: chain_02_6
+    400038: chain_02_7
+    400040: chain_02_8
+    400042: chain_02_9
+    400044: //RootNode
+    400046: glove_attach
+    400048: glove_attach_glove_wrist
+    400050: glove_mit_1
+    400052: glove_mit_2
+    400054: glove_mit_end
+    400056: glove_thumb_1
+    400058: glove_thumb_2
+    400060: glove_thumb_end
+    400062: handle_bottom
+    400064: handle_bottom_end
+    400066: handle_top
+    400068: handle_top_end
+    400070: Prop_Joker_Extendo
+    400072: Root
+    4300000: Prop_Joker_Extendo
+    9500000: //RootNode
+    13700000: Prop_Joker_Extendo
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
